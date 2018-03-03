@@ -1,0 +1,235 @@
+
+.topnavigation li.company a {border-bottom-color: #02ade6;}
+.topnavigation li.citizen a {border-bottom-color: #00a77f;}
+.topnavigation li.career a {border-bottom-color: #1957a7;}
+.topnavigation li.press a {border-bottom-color: #1957a7;}
+
+.front .box,
+.front .box .foot {background: none !important;}
+
+.front .c400 {background: transparent url(../images/bg_front_foot.png) no-repeat bottom left;}
+.front .theme {background: transparent url(../images/bg_c100_tile.png) repeat-y -464px top !important;}
+.front .theme .foot {background: transparent url(../images/bg_c100_foot.png) no-repeat -464px bottom !important;}
+.front .splash {background: transparent url(../images/bg_c100_tile.png) repeat-y top left !important;}
+.front .splash .foot {background: transparent url(../images/bg_c100_foot.png) no-repeat bottom left !important;}
+
+.equalheight {background: transparent url(../images/bg_c300_c100_equalheight.png) no-repeat bottom left;}
+.equalheight .box,
+.equalheight .box .foot {background: none !important;}
+
+.front .equalheight {background: transparent url(../images/bg_c300_c100_equalheight.png) repeat-x bottom left;}
+
+
+.company .topnavigation li a,
+.citizen .topnavigation li a,
+.career .topnavigation li a,
+.press .topnavigation li a {border-bottom: none !important;}
+
+.company .topnavigation .line,
+.citizen .topnavigation .line,
+.career .topnavigation .line,
+.press .topnavigation .line {
+	border-bottom: 3px solid #1957a7;
+	height: 36px;
+}
+.company .topnavigation .line {border-bottom-color: #0086b2;}
+.citizen .topnavigation .line {border-bottom-color: #008666;}
+.career .topnavigation .line {border-bottom-color: #002e6a;}
+.press .topnavigation .line {border-bottom-color: #002e6a;}
+
+.company .topnavigation li.company a,
+.topnavigation li.company a:hover,
+.topnavigation li.company a:focus,
+.topnavigation li.company a:active {
+	background: transparent url(../images/bg_topnavigation.png) no-repeat 0 -39px;
+	border-right: 1px solid #03b5f0;
+}
+.citizen .topnavigation li.citizen a,
+.topnavigation li.citizen a:hover,
+.topnavigation li.citizen a:focus,
+.topnavigation li.citizen a:active {
+	background: transparent url(../images/bg_topnavigation.png) no-repeat 0 -78px;
+	padding-left: 22px;
+	border-left: none;
+	border-right: 1px solid #00a77f;
+}
+.career .topnavigation li.career a,
+.topnavigation li.career a:hover,
+.topnavigation li.career a:focus,
+.topnavigation li.career a:active {
+	background: transparent url(../images/bg_topnavigation.png) no-repeat 0 -117px;
+	padding-left: 22px;
+	border-left: none;
+	border-right: 1px solid #275b9f;
+}
+.press .topnavigation li.press a,
+.topnavigation li.press a:hover,
+.topnavigation li.press a:focus,
+.topnavigation li.press a:active {
+	background: transparent url(../images/bg_topnavigation.png) no-repeat 0 -117px;
+	padding-left: 22px;
+	border-left: none;
+	border-right: 1px solid #275b9f;
+}
+
+
+.company .subnavigation li a {color: #00a5dd;}
+.citizen .subnavigation li a {color: #00a67f;}
+.career .subnavigation li a {color: #1a58a8;}
+.press .subnavigation li a {color: #1a58a8;}
+
+.company .subnavigation li.selected a {background-position: 0 -147px;}
+.citizen .subnavigation li.selected a {background-position: 0 -47px;}
+.career .subnavigation li.selected a {background-position: 0 -247px;}
+.press .subnavigation li.selected a {background-position: 0 -247px;}
+
+
+.company .leftnavigation h4 {background-position: 0 0 !important;}
+.citizen .leftnavigation h4 {background-position: 0 -200px !important;}
+.press .leftnavigation h4,
+.career .leftnavigation h4 {background-position: 0 -100px !important;}
+
+
+
+.company .leftnavigation li.open a {background-position: 9px -195px;}
+.company .leftnavigation li.open li a {background-position: 24px -146px;}
+.citizen .leftnavigation li.open a {background-position: 9px -95px;}
+.citizen .leftnavigation li.open li a {background-position: 24px -46px;}
+
+.career .leftnavigation li.open a {background-position: 9px -296px;}
+.career .leftnavigation li.open li a {background-position: 24px -246px;}
+.press .leftnavigation li.open a {background-position: 9px -296px;}
+.press .leftnavigation li.open li a {background-position: 24px -246px;}
+
+.company .content a {color: #00a5dd;}
+.citizen .content a {color: #00a67f;}
+.career .content a {color: #1a58a8;}
+.press .content a {color: #1a58a8;}
+
+
+.front .leftnavigation {float: right;}
+.front .sidebar {}
+.front .subnavigation {display: none;}
+.front .ContentPadding {width: 464px;}
+.sidebar .ContentPadding {width: 464px;}
+
+.company .more {
+	color: #00a5dd;
+	background-position: 7px -447px !important;
+}
+.company fieldset .more {background-position: 7px -445px !important;}
+.company fieldset li .more {background-position: 0 -445px !important;}
+.citizen .more {
+	color: #00a67f;
+	background-position: 7px -397px !important;
+}
+.career .more {
+	color: #1a58a8;
+	background-position: 7px -497px !important;
+}
+.press .more {
+	color: #1a58a8;
+	background-position: 7px -497px !important;
+}
+
+.company .c100.theme {background-position: -464px 0;}
+.company .c100.theme .head {background-position: -464px 0;}
+.company .c100.theme .foot {background-position: -464px bottom;}
+
+.citizen .c100.theme {background-position: -232px 0;}
+.citizen .c100.theme .head {background-position: -232px 0;}
+.citizen .c100.theme .foot {background-position: -232px bottom;}
+
+.career .c100.theme {background-position: -696px 0;}
+.career .c100.theme .head {background-position: -696px 0;}
+.career .c100.theme .foot {background-position: -696px bottom;}
+
+.press .c100.theme {background-position: -696px 0;}
+.press .c100.theme .head {background-position: -696px 0;}
+.press .c100.theme .foot {background-position: -696px bottom;}
+
+.company .content .theme h2 {padding-top: 8px; font-family: Georgia; font-size: 218.5%;}
+.company .theme h4 {background-position: -428px bottom;}
+.citizen .theme h4 {background-position: -214px bottom;}
+.career .theme h4 {background-position: -642px bottom;}
+.press .theme h4 {background-position: -642px bottom;}
+
+.company .theme h4,
+.company .theme h3,
+.company .theme h2,
+.company .theme a,
+.company .theme p,
+.citizen .theme h4,
+.citizen .theme h3,
+.citizen .theme h2,
+.citizen .theme a,
+.citizen .theme p,
+.career .theme h4,
+.career .theme h3,
+.career .theme a,
+.career .theme p,
+.press .theme h4,
+.press .theme h3,
+.press .theme h2,
+.press .theme a,
+.press .theme p,
+.company .banner a,
+.citizen .banner a,
+.career .banner a,
+.press .banner a {color: #ffffff;}
+
+.company .banner a {background-position: 0px -30px;}
+.citizen .banner a {background-position: 0px 0px;}
+.career .banner a {background-position: 0px -60px;}
+.press .banner a {background-position: 0px -60px;}
+.company .banner a:hover, .company .banner a:focus, .company .banner a:active {background-position: -156px -30px;}
+.citizen .banner a:hover, .citizen .banner a:focus, .citizen .banner a:active {background-position: -156px 0px;}
+.career .banner a:hover, .career .banner a:focus, .career .banner a:active {background-position: -156px -60px;}
+.press .banner a:hover, .press .banner a:focus, .press .banner a:active {background-position: -156px -60px;}
+
+.company .theme .more {background-position: 7px -597px !important;}
+.citizen .theme .more {background-position: 7px -547px !important;}
+.career .theme .more {background-position: 7px -647px !important;}
+.press .theme .more {background-position: 7px -647px !important;}
+
+.company .theme li a {background-position: 9px -746px !important;}
+.citizen .theme li a {background-position: 9px -696px !important;}
+.career .theme li a {background-position: 9px -796px !important;}
+.press .theme li a {background-position: 9px -796px !important;}
+
+
+
+.citizen .theme h4 {position: relative;}
+.citizen .theme h4 span.lightbulb {
+	position: absolute;
+	top: 5px;
+	right: 8px;
+	height: 26px;
+	width: 19px;
+	background: transparent url(../images/gx_lightbulb.png) no-repeat top right;
+}
+
+.company .splash h4 {color: #00a5dd;}
+.citizen .splash h4 {color: #00a67f;}
+.career .splash h4 {color: #1a58a8;}
+.press .splash h4 {color: #1a58a8;}
+
+.company .splash h3 {color: #00a5dd;}
+.citizen .splash h3 {color: #00a67f;}
+.career .splash h3 {color: #1a58a8;}
+.press .splash h3 {color: #1a58a8;}
+
+.company .index li h3 {color: #00a5dd;}
+.citizen .index li h3 {color: #00a67f;}
+.career .index li h3 {color: #1a58a8;}
+.press .index li h3 {color: #1a58a8;}
+
+.company .index li a {color: #00a5dd;}
+.citizen .index li a {color: #00a67f;}
+.career .index li a {color: #1a58a8;}
+.press .index li a {color: #1a58a8;}
+
+.company .box div.submit input {color: #00a5dd;}
+.citizen .box div.submit input {color: #00a67f;}
+.career .box div.submit input {color: #1a58a8;}
+.press .box div.submit input {color: #1a58a8;}

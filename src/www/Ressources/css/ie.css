@@ -1,0 +1,132 @@
+
+* html .footer address {display: inline-block;}
+* html .subnavigation ul {display: inline-block;}
+* html .footer li span.url {display: inline-block;}
+* html .breadcrumb {height: 37px;}
+.breadcrumb  .trail {width: 700px;}
+
+* html .content {height: auto; display: inline-block;}
+* html .box .foot {height: auto;}
+
+* html .c100, * html .c200 .c100, * html .c300 .c100  {background: transparent url(../images/bg_c100_tile.png) repeat-y 1000px 0;}
+* html .c100 .head, * html .c200 .c100 .head, * html .c300 .c100 .head, * html .c300 .c200 .c100 .head {background: transparent url(../images/bg_c100_head.png) no-repeat 1000px 0;}
+* html .c100 .foot, * html .c200 .c100 .foot, * html .c300 .c100 .foot, * html .c300 .c200 .c100 .foot {background: transparent url(../images/bg_c100_foot.png) no-repeat 1000px 0;}
+
+* html .c200, * html .c300 .c200 {background: transparent url(../images/bg_c200_tile.png) repeat-y 1000px 0;}
+* html .c200 .head, * html .c300 .c200 .head {background: transparent url(../images/bg_c200_head.png) no-repeat 1000px 0;}
+* html .c200 .foot, * html .c300 .c200 .foot {background: transparent url(../images/bg_c200_foot.png) no-repeat 1000px 0;}
+
+* html .c300 {background: transparent url(../images/bg_c300_tile.png) repeat-y 1000px 0;}
+* html .c300 .head {background: transparent url(../images/bg_c300_head.png) no-repeat 1000px 0;}
+* html .c300 .foot {background: transparent url(../images/bg_c300_foot.png) no-repeat 1000px 0;}
+
+* html .box {background-position: 0 0 !important;}
+* html .box .head {background-position: top left !important;}
+* html .box .foot {background-position: bottom left !important;}
+
+* html .company .theme {background-position: -464px 0 !important;}
+* html .company .theme .head {background-position: -464px 0 !important;}
+* html .company .theme .foot {background-position: -464px bottom !important;}
+
+* html .citizen .theme {background-position: -232px 0 !important;}
+* html .citizen .theme .head {background-position: -232px 0 !important;}
+* html .citizen .theme .foot {background-position: -232px bottom !important;}
+
+* html .career .theme {background-position: -696px 0 !important;}
+* html .career .theme .head {background-position: -696px 0 !important;}
+* html .career .theme .foot {background-position: -696px bottom !important;}
+
+* html .press .theme {background-position: -696px 0 !important;}
+* html .press .theme .head {background-position: -696px 0 !important;}
+* html .press .theme .foot {background-position: -696px bottom !important;}
+
+* html .equalheight {background: transparent url(../images/bg_c300_c100_equalheight.png) repeat-x bottom left !important;}
+* html .equalheight .box,
+* html .equalheight .box .foot {background: none !important;}
+
+* html .equalheight .c100 .head {background-image: url(../images/bg_c100_head.png) !important;}
+
+* html .citizen .theme h4 span.lightbulb {right: 15px;}
+
+* html .carussel a.company {background-image: url(../images/bn_carussel_ie6.png);}
+* html .carussel a.citizen {background-image: url(../images/bn_carussel_ie6.png) !important;}
+
+* html .banner {background: transparent url(../images/bg_banner.jpg) no-repeat top left !important;}
+* html .imaged .banner {background: transparent url(../images/bg_banner_imaged.jpg) no-repeat top left !important;}
+* html .imagee .banner {background: transparent url(../images/bg_banner_imagee.jpg) no-repeat top left !important;}
+* html .imagef .banner {background: transparent url(../images/bg_banner_imagef.jpg) no-repeat top left !important;}
+
+* html .imaged .front,
+* html .imagee .front,
+* html .imagef .front {margin-top: 6px;}
+
+* html .index ul {display: inline-block;}
+* html .box .foot {display: inline-block;}
+* html .paging {display: inline-block;}
+
+* html .jobs ul,
+* html .jobs li {display: inline-block;}
+* html .pressrelease fieldset li {display: inline-block; background: none;}
+
+* html .pressrelease fieldset {display: inline-block; overflow: hidden;}
+
+* html .pressrelease fieldset ul {overflow: hidden;}
+* html .pressrelease fieldset li {float: left; clear: left;}
+
+* html .news ul,
+* html .news li {display: inline-block;}
+
+.newssnippet fieldset {display: inline-block; padding-bottom: 10px;}
+* html .newssnippet ul,
+* html .newssnippet li {display: inline-block;}
+
+* html .box div.CRcolumn label {width: 170px;}
+
+.box .hr hr {display: none;}
+.box .hr {
+	background: transparent url(../images/bg_separator.png) repeat-x top left;
+	height: 10px;
+	margin: 0 8px;
+}
+* html .box .hr,
+* html .newssnippet li,
+* html .jobs li,
+* html .pressrelease li,
+* html .subscriptions li,
+* html .news li {background-image: url(../images/bg_separator_ie6.png);}
+
+.news {position: relative;}
+.news .tabs {position: absolute; right: 9px; top: 9px;}
+
+* html .news fieldset li {background: none;}
+* html .subscriptions li li {background: none;}
+
+.quicklinks li a {display: inline-block;}
+.quicklinks li.contact a,
+.quicklinks li.phone a,
+.quicklinks li.publications a {
+	height: 34px;
+	padding-top: 3px;
+}
+.quicklinks li.faq a {
+	height: 26px;
+	padding-top: 11px;
+}
+.quicklinks li.subscribe a {
+	height: 27px;
+	padding-top: 11px;
+}
+
+* html .box div.CRcolumn {
+	display: inline-block;
+}
+.ic1 {}
+.ic2 {}
+.ic3 {}
+.ic4 {}
+
+.box div.CRcolumn input,
+.box div.checkbox input,
+.box div.radio input {
+	margin-top: -3px;
+}
